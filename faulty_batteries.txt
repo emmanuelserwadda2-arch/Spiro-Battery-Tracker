@@ -1,0 +1,31 @@
+Rider Name: EMMA
+Rider ID: UNION
+Battery ID: SD000034
+Number Plate: UMA 233DS
+Location: KIRINYA
+Problem Description: SOC SHUTDOWN
+Rider Name: EMMA
+Rider ID: WE
+Battery ID: WE
+Number Plate: WE
+Location: WE
+Problem Description: SOC SHUTDOWN
+Timestamp: 2026-05-04 08:12:10.650488
+--- Report ---
+Rider Name: emma
+Rider ID: union
+Battery ID: sd000034
+Number Plate: uma 345dx
+Location: bweyogerere
+Problem Description: battery black out 
+Timestamp: 2026-05-04 08:25:44
+
+--- Report ---
+Rider Name: emma
+Rider ID: um111es
+Battery ID: B001
+Number Plate: UMA 234DS
+Location: BWEYOGERERE
+Problem Description: BATTERY SHUTDOWN
+Timestamp: 2026-05-07 08:10:42
+

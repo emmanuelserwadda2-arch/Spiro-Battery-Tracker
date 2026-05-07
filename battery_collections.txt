@@ -1,0 +1,6 @@
+--- Collection Report ---
+Transporter Name: emma
+Vehicle ID: ua 234ef
+Battery IDs: sd9834, sf4566, sd34444, f7000ef, sd00003
+Timestamp: 2026-05-05 07:44:33
+

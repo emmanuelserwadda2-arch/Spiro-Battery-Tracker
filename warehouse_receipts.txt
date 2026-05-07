@@ -1,0 +1,6 @@
+--- Warehouse Receipt Report ---
+Team Member Name: emma
+Warehouse ID: portbell warehouse 
+Battery IDs: sd003, sf0008, sg9999
+Timestamp: 2026-05-05 07:47:07
+
